@@ -1,2 +1,2 @@
-# spring-boot-backed
+# spring-boot-react-project
 Spring Boot and React Project
